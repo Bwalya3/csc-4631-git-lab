@@ -1,1 +1,2 @@
-Hello, software Maintenance! 
+Hello, software Maintenance!
+Learning Git is fun! 

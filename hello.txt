@@ -1,2 +1,1 @@
-Hello, Software Maintenance! 
-Git is wonderful.
+"hello,software maintenance!" 
